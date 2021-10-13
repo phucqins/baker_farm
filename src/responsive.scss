@@ -1,0 +1,121 @@
+// PC
+@media (min-width: 1024px) {
+}
+
+// Tablet
+@media (min-width: 740px) and (max-width: 1023px) {
+  .header .section-content {
+    top: 35%;
+  }
+  .main-container .dishes-container {
+    margin-top: 0rem;
+    justify-content: center;
+    .dish1 {
+      margin: 3rem 1rem 0rem 1rem;
+    }
+    .dish-shared {
+      width: 12rem;
+      height: 12rem;
+      h2 {
+        padding-bottom: 2.8rem;
+      }
+      a {
+        top: 10.5rem;
+      }
+    }
+  }
+  .main-container .feature-cards {
+    grid-template-columns: repeat(auto-fit, minmax(41rem, 0.6fr)) !important;
+
+    .feature__card {
+      grid-template-rows: 20vw min-content !important;
+      .feature__img-box {
+        border-radius: 0.25rem;
+        margin: 0;
+      }
+    }
+  }
+  .main-container .video-section {
+    padding: 10rem 4rem;
+  }
+  .event__card:nth-child(2),
+  .feature__card:first-child {
+    padding-bottom: 1.9rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  }
+}
+// Mobile
+@media (max-width: 739px) {
+  .active {
+    display: flex !important;
+  }
+
+  .modal__btn {
+    display: flex;
+    flex-direction: column;
+    .modal__btn-style {
+      margin-right: 0 !important;
+      margin-bottom: 1rem !important;
+    }
+  }
+
+  .header .navbar .nav-list {
+    flex-direction: column;
+    list-style-type: none;
+    line-height: inherit !important;
+    align-items: center;
+    flex-grow: 888;
+    display: none;
+  }
+  .header .navbar .nav-list li:not(:last-child) {
+    margin-right: 0rem;
+  }
+  .bar-icon {
+    display: block !important;
+  }
+
+  .nav-list li {
+    margin: 0.3rem 0;
+  }
+  .dishes-container {
+    margin-top: 0 !important;
+    flex-direction: column;
+    align-items: center;
+    .dish1 {
+      margin: 1rem 0;
+    }
+    .dish2 {
+      margin-top: 0 !important;
+    }
+  }
+  .main-container .feature-container .feature-cards {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 0.6fr)) !important;
+    .feature__card {
+      grid-template-rows: 27vw min-content !important;
+      img {
+        height: 30vw !important;
+      }
+    }
+  }
+  .video-section .video__box {
+    padding: 0 !important;
+  }
+  .event-section {
+    grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr)) !important;
+  }
+  .contact-section .contact__box {
+    flex-direction: column !important;
+    .contact__info {
+      margin-right: 0 !important;
+    }
+  }
+  .main-container .contact-section .contact__box .contact__img {
+    height: 14rem;
+    width: -webkit-fill-available !important;
+}
+  .event__card:nth-child(2),
+  .feature__card:first-child {
+    padding-bottom: 1.9rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  }
+}

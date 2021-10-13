@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/phucqins/baker_farm/static/css/main.cff6e0fa.chunk.css",
+    "main.js": "/phucqins/baker_farm/static/js/main.97a6b3d1.chunk.js",
+    "main.js.map": "/phucqins/baker_farm/static/js/main.97a6b3d1.chunk.js.map",
+    "runtime-main.js": "/phucqins/baker_farm/static/js/runtime-main.986f7490.js",
+    "runtime-main.js.map": "/phucqins/baker_farm/static/js/runtime-main.986f7490.js.map",
+    "static/js/2.8be23c66.chunk.js": "/phucqins/baker_farm/static/js/2.8be23c66.chunk.js",
+    "static/js/2.8be23c66.chunk.js.map": "/phucqins/baker_farm/static/js/2.8be23c66.chunk.js.map",
+    "index.html": "/phucqins/baker_farm/index.html",
+    "static/css/main.cff6e0fa.chunk.css.map": "/phucqins/baker_farm/static/css/main.cff6e0fa.chunk.css.map",
+    "static/js/2.8be23c66.chunk.js.LICENSE.txt": "/phucqins/baker_farm/static/js/2.8be23c66.chunk.js.LICENSE.txt",
+    "static/media/dish 1.5e55a2ab.jpeg": "/phucqins/baker_farm/static/media/dish 1.5e55a2ab.jpeg",
+    "static/media/dish 2.660a8de6.jpeg": "/phucqins/baker_farm/static/media/dish 2.660a8de6.jpeg",
+    "static/media/dish 3.154f2ab6.jpeg": "/phucqins/baker_farm/static/media/dish 3.154f2ab6.jpeg",
+    "static/media/event 1.137202f1.png": "/phucqins/baker_farm/static/media/event 1.137202f1.png",
+    "static/media/event 2.36ede473.png": "/phucqins/baker_farm/static/media/event 2.36ede473.png",
+    "static/media/friend1.218697f1.jpg": "/phucqins/baker_farm/static/media/friend1.218697f1.jpg",
+    "static/media/Header.scss": "/phucqins/baker_farm/static/media/hero-2.5f99236b.jpeg",
+    "static/media/hot food 1.a5c78a99.jpeg": "/phucqins/baker_farm/static/media/hot food 1.a5c78a99.jpeg",
+    "static/media/hot food 2.4b68e9f1.jpeg": "/phucqins/baker_farm/static/media/hot food 2.4b68e9f1.jpeg",
+    "static/media/offer-1.a133219d.jpg": "/phucqins/baker_farm/static/media/offer-1.a133219d.jpg",
+    "static/media/tea.9c38c823.jpg": "/phucqins/baker_farm/static/media/tea.9c38c823.jpg",
+    "static/media/Main.scss": "/phucqins/baker_farm/static/media/wood back.bf5c6a6d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.986f7490.js",
+    "static/js/2.8be23c66.chunk.js",
+    "static/css/main.cff6e0fa.chunk.css",
+    "static/js/main.97a6b3d1.chunk.js"
+  ]
+}
